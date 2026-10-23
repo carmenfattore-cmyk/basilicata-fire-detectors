@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Sentinel-2 forest-fire detectors validated against the Basilicata fire register"
+authors:
+  - family-names: Fattore
+    given-names: Carmen
+    affiliation: "University of Basilicata, DIUSS"
+license: MIT

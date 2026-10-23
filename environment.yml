@@ -1,0 +1,17 @@
+name: incendi
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - scikit-learn
+  - rasterio
+  - fiona
+  - shapely
+  - pyproj
+  - matplotlib
+  - spyder
+  - pip
+  - pip:
+      - torch   # for GPU, install the CUDA build from pytorch.org instead
