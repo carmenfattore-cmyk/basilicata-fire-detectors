@@ -1,5 +1,5 @@
-results/
-data/GEE_Basilicata_PCA/
-__pycache__/
-*.pyc
-.spyproject/
+  results/
+  GEE_Basilicata_PCA/
+  __pycache__/
+  *.pyc
+  .spyproject/
